@@ -43,7 +43,7 @@ To help business stakeholders analyze and optimize sales and profitability, this
 ---
 
 ## 📈 Screenshots of Dashboard
-![Dashboard Preview](.[dashboard.png](https://github.com/RNU1815/Superstore-Executive-Dashboard-Project/blob/main/Screenshot%202568-05-26%20at%2012.14.53.png))
+![Dashboard Preview](./(https://github.com/RNU1815/Superstore-Executive-Dashboard-Project/blob/main/Screenshot%202568-05-26%20at%2012.14.53.png))
 
 
 ---
