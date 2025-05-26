@@ -53,8 +53,6 @@ To help business stakeholders analyze and optimize sales and profitability, this
 ### 🔷 Regional Profit & Discounts
 ![Regional Profit](Screenshots/Screenshot%202568-05-26%20at%2012.16.05.png)
 
-
-
 ---
 
 ## 📎 Tableau Public Link
