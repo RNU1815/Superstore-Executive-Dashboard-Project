@@ -42,18 +42,5 @@ To help business stakeholders analyze and optimize sales and profitability, this
 
 ---
 
-## 📈 Screenshots of Dashboard
-
-### 🔷 KPI Summary
-![KPI Summary](Screenshots/Screenshot%202568-05-26%20at%2012.14.53.png)
-
-### 🔷 Product Performance
-![Product Performance](Screenshots/Screenshot%202568-05-26%20at%2012.15.47.png)
-
-### 🔷 Regional Profit & Discounts
-![Regional Profit](Screenshots/Screenshot%202568-05-26%20at%2012.16.05.png)
-
----
-
 ## 📎 Tableau Public Link
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/kunsee.tangsrisanguan/viz/SuperstoreDashboard_17482367488370/SuperstoreExecutiveSummary?publish=yes)  
