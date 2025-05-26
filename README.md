@@ -41,3 +41,11 @@ To help business stakeholders analyze and optimize sales and profitability, this
 **Which product categories and subcategories perform well across metrics?**
 
 ---
+
+## 📈 Screenshots of Dashboard
+
+
+---
+
+## 📎 Tableau Public Link
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/kunsee.tangsrisanguan/viz/SuperstoreDashboard_17482367488370/SuperstoreExecutiveSummary?publish=yes)  
