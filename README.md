@@ -43,7 +43,14 @@ To help business stakeholders analyze and optimize sales and profitability, this
 ---
 
 ## 📈 Screenshots of Dashboard
-![Dashboard Preview](./(https://github.com/RNU1815/Superstore-Executive-Dashboard-Project/blob/main/Screenshot%202568-05-26%20at%2012.14.53.png))
+### 🔹 KPI Summary
+![KPI Summary](./Screenshots/Screenshot%202568-05-26%20at%2012.14.53.png)
+
+### 🔹 Product Performance
+![Top & Bottom Products](./Screenshots/Screenshot%202568-05-26%20at%2012.15.47.png)
+
+### 🔹 Regional Profit & Discounts
+![Profit & Discount Analysis](./Screenshots/Screenshot%202568-05-26%20at%2012.16.05.png)
 
 
 ---
